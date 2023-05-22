@@ -25,10 +25,7 @@
  
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-  
-  <img align="center" alt="Rockwell-Automation" height="30" width="40" src="[ https://www.preemptive.com/wp-content/uploads/2020/12/Rockwell-Automation-Logo.png](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Rockwell_Automation_logo.svg/640px-Rockwell_Automation_logo.svg.png)">
-  ##
-  
+   
   <div> 
   <!-- 
       <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>

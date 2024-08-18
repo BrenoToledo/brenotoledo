@@ -1,7 +1,7 @@
 ## Olá!👋 eu sou o Breno Toledo
 
 - 🎓 Estudando : Análise e Desenvolvimento de Sistemas - FATEC
-- 🎓 Estudando : Engenharia de produção - UNIFRAN
+- 🎓 Formado : Engenharia de produção - UNIFRAN
 - 🔭 Trabalho: Programação de Máquinas em CLP e Automação
 - 🌱 Estudando: Python
 - 😄 Pronouns: Ele/Dele
